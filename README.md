@@ -1,3 +1,5 @@
 # GitPortal
 
->The app that are made to impress
+Go the main web site https://gitportal.dev
+
+![gitportal](https://gitportal.dev/assets/main.png)
